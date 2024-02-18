@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Rental.java" package="Rental" timestamp="19-Feb-2019 20:37:58">
+        <select from="12123" to="12123"/>
+        <scroll column="5828" row="0"/>
+      </file>
+      <file name="Car.java" package="Rental" timestamp="19-Feb-2019 20:37:41">
+        <select from="12123" to="12123"/>
+        <scroll column="5828" row="0"/>
+      </file>
+      <file name="Node.java" package="Rental" timestamp="19-Feb-2019 20:37:51">
+        <select from="12123" to="12123"/>
+        <scroll column="5828" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
